@@ -29,7 +29,7 @@
     "inert": "^5.1.2",
     "joi": "^14.1.0",
     "jsonwebtoken": "^8.4.0",
-    "mongoose": "^5.3.11",
+    "mongoose": "^5.7.5",
     "pg": "^7.4.3",
     "pg-hstore": "^2.3.2",
     "sequelize": "^4.38.0",
